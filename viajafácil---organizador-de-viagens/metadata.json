@@ -1,0 +1,7 @@
+{
+  "name": "ViajaFácil - Organizador de Viagens",
+  "description": "Seu companheiro de estrada definitivo. Organize check-lists, controle gastos, planeje rotas com mapa interativo e conte os segundos para sua próxima aventura. Potencializado por IA para sugestões inteligentes.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
